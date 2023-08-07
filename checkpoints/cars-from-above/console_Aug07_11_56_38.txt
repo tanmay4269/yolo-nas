@@ -1,0 +1,16 @@
+============================================================
+New run started at 2023-08-07.11:54:34.749385
+sys.argv: "/home/tanmay/.local/lib/python3.8/site-packages/ipykernel_launcher.py --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"d598ecae-ac86-44d7-b4cd-c1a506c8cd87" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/tanmay/.local/share/jupyter/runtime/kernel-v2-76625pcxjrBl4sjd.json"
+============================================================
+The console stream is logged into /home/tanmay/sg_logs/console.log
+
+Caching annotations:   0%|          | 0/280 [00:00<?, ?it/s]
+Caching annotations:  60%|██████    | 168/280 [00:00<00:00, 1678.72it/s]
+Caching annotations: 100%|██████████| 280/280 [00:00<00:00, 2048.54it/s]
+
+Caching annotations:   0%|          | 0/9 [00:00<?, ?it/s]
+Caching annotations: 100%|██████████| 9/9 [00:00<00:00, 2351.21it/s]
+
+Caching annotations:   0%|          | 0/10 [00:00<?, ?it/s]
+Caching annotations: 100%|██████████| 10/10 [00:00<00:00, 2526.54it/s]
+The console stream is now moved to checkpoints/cars-from-above/console_Aug07_11_56_38.txt

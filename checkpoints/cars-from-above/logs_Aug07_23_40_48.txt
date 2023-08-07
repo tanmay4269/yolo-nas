@@ -1,0 +1,22 @@
+[2023-08-07 23:40:40] INFO - super_gradients.common.crash_handler.crash_tips_setup - Crash tips is enabled. You can set your environment variable to CRASH_HANDLER=FALSE to disable it
+[2023-08-07 23:40:41] DEBUG - matplotlib - matplotlib data path: /home/tanmay/.local/lib/python3.8/site-packages/matplotlib/mpl-data
+[2023-08-07 23:40:41] DEBUG - matplotlib - CONFIGDIR=/home/tanmay/.config/matplotlib
+[2023-08-07 23:40:41] DEBUG - matplotlib - interactive is False
+[2023-08-07 23:40:41] DEBUG - matplotlib - platform is linux
+[2023-08-07 23:40:41] DEBUG - matplotlib - CACHEDIR=/home/tanmay/.cache/matplotlib
+[2023-08-07 23:40:41] DEBUG - matplotlib.font_manager - Using fontManager instance from /home/tanmay/.cache/matplotlib/fontlist-v330.json
+[2023-08-07 23:40:42] DEBUG - tensorflow - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+[2023-08-07 23:40:42] DEBUG - h5py._conv - Creating converter from 7 to 5
+[2023-08-07 23:40:42] DEBUG - h5py._conv - Creating converter from 5 to 7
+[2023-08-07 23:40:42] DEBUG - h5py._conv - Creating converter from 7 to 5
+[2023-08-07 23:40:42] DEBUG - h5py._conv - Creating converter from 5 to 7
+[2023-08-07 23:40:44] DEBUG - super_gradients.common.sg_loggers.clearml_sg_logger - Failed to import clearml
+[2023-08-07 23:40:44] DEBUG - super_gradients.common.registry.albumentation - Failed to import albumentations
+[2023-08-07 23:40:44] DEBUG - pip._internal.vcs.versioncontrol - Registered VCS backend: bzr
+[2023-08-07 23:40:44] DEBUG - pip._internal.vcs.versioncontrol - Registered VCS backend: git
+[2023-08-07 23:40:44] DEBUG - pip._internal.vcs.versioncontrol - Registered VCS backend: hg
+[2023-08-07 23:40:44] DEBUG - pip._internal.vcs.versioncontrol - Registered VCS backend: svn
+[2023-08-07 23:40:44] DEBUG - hydra.core.utils - Setting JobRuntime:name=UNKNOWN_NAME
+[2023-08-07 23:40:44] DEBUG - hydra.core.utils - Setting JobRuntime:name=app
+[2023-08-07 23:40:44] DEBUG - hydra.core.utils - Setting JobRuntime:name=app
+[2023-08-07 23:40:49] INFO - super_gradients.training.sg_trainer.sg_trainer - Using EMA with params {'decay': 0.9, 'decay_type': 'threshold'}
